@@ -5,6 +5,7 @@
 //  Created by Daniel Alvarez on 5/9/19.
 //  Copyright © 2019 Daniel Alvarez. All rights reserved.
 //
+//This program will receive user input and calculate the gross pay based on salary and hours worked, taking into account overtime paid at time and a half.
 
 #include <iostream>
 using namespace std;
