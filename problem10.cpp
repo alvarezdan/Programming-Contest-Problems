@@ -5,6 +5,7 @@
 //  Created by Daniel Alvarez on 5/9/19.
 //  Copyright © 2019 Daniel Alvarez. All rights reserved.
 //
+//This program displays a pattern provided by the progeamming contest host - we had to recreate the pattern using only "* ". 
 
 #include <iostream>
 using namespace std;
