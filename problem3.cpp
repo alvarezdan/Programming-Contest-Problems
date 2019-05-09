@@ -5,6 +5,7 @@
 //  Created by Daniel Alvarez on 5/9/19.
 //  Copyright © 2019 Daniel Alvarez. All rights reserved.
 //
+//This program reads in the number of integers (could be any number) and calculates the sum of numbers entered
 
 #include <iostream>
 using namespace std;
