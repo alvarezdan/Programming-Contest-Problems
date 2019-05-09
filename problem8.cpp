@@ -5,6 +5,7 @@
 //  Created by Daniel Alvarez on 5/9/19.
 //  Copyright © 2019 Daniel Alvarez. All rights reserved.
 //
+//This program finds the largest number out of up to 10 numbers entered.
 
 #include <iostream>
 using namespace std;
