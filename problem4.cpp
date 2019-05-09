@@ -5,6 +5,7 @@
 //  Created by Daniel Alvarez on 5/9/19.
 //  Copyright © 2019 Daniel Alvarez. All rights reserved.
 //
+//This program reads in a string of characters and creates a second string with the original reversed.
 
 #include <iostream>
 #include <string.h>
