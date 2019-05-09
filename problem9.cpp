@@ -5,6 +5,7 @@
 //  Created by Daniel Alvarez on 5/9/19.
 //  Copyright © 2019 Daniel Alvarez. All rights reserved.
 //
+//This program explains and displays factorials from numbers 1-5.
 
 #include <iostream>
 using namespace std;
