@@ -5,6 +5,7 @@
 //  Created by Daniel Alvarez on 5/9/19.
 //  Copyright © 2019 Daniel Alvarez. All rights reserved.
 //
+//This program reads 10 integers ranging from 1-100 and calculates the sum of these numbers.
 
 #include <iostream>
 using namespace std;
